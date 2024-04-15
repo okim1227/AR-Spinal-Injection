@@ -1,0 +1,4 @@
+repository "ar spinal applet demo@oliviakkm@cloud"
+  path "/"
+    br "/main"
+    co "/main"
