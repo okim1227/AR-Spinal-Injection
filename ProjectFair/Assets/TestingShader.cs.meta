@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87733c87867653f45a888979a35663cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {instanceID: 0}
+  - _testTextures: {instanceID: 0}
+  - viewTexture: {instanceID: 0}
+  - shader: {fileID: 7200000, guid: 9d94b657b36539a4fae296f3c9878ed9, type: 3}
+  - texture2DArray: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
